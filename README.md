@@ -12,6 +12,11 @@
 
 - 💬 Ask me about ** AI, App Development, and Web Development**
 
+- 🚀 Experience & Learning
+💻 Full Stack Development Intern — Zynvex Solutions
+⚙️ DevOps Course — Averon Global (4 Weeks)
+📱 React Native / App Development Course — UCP ACM Society
+
 - 📫 How to reach me **muhammad.umer25052@gmail.com**
 
 - ⚡ Fun fact ** I’m always experimenting with new technologies.**
